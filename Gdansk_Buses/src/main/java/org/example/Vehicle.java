@@ -1,25 +1,27 @@
 package org.example;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 class Vehicle {
-    private Date generated;
-    private String routeShortName;
-    private int tripId;
-    private String headsign;
-    private String vehicleCode;
-    private String vehicleService;
-    private int vehicleId;
-    private int speed;
-    private int direction;
-    private int delay;
-    private Date scheduledTripStartTime;
-    private double lat;
-    private double lon;
-    private int gpsQuality;
+    public Date generated;
+    public String routeShortName;
+    public int tripId;
+    public String headsign;
+    public String vehicleCode;
+    public String vehicleService;
+    public int vehicleId;
+    public int speed;
+    public int direction;
+    public int delay;
+    public Date scheduledTripStartTime;
+    public double lat;
+    public double lon;
 
     SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
 
@@ -39,7 +41,6 @@ class Vehicle {
                 ",\n\tscheduledTripStartTime='" + scheduledTripStartTime + '\'' +
                 ",\n\tlat=" + lat +
                 ",\n\tlon=" + lon +
-                ",\n\tgpsQuality=" + gpsQuality +
                 "}";
     }
 
@@ -60,82 +61,6 @@ class Vehicle {
         }
     }
 
-    public String getRouteShortName() {
-        return routeShortName;
-    }
-
-    public void setRouteShortName(String routeShortName) {
-        this.routeShortName = routeShortName;
-    }
-
-    public int getTripId() {
-        return tripId;
-    }
-
-    public void setTripId(int tripId) {
-        this.tripId = tripId;
-    }
-
-    public String getHeadsign() {
-        return headsign;
-    }
-
-    public void setHeadsign(String headsign) {
-        this.headsign = headsign;
-    }
-
-    public String getVehicleCode() {
-        return vehicleCode;
-    }
-
-    public void setVehicleCode(String vehicleCode) {
-        this.vehicleCode = vehicleCode;
-    }
-
-    public String getVehicleService() {
-        return vehicleService;
-    }
-
-    public void setVehicleService(String vehicleService) {
-        this.vehicleService = vehicleService;
-    }
-
-    public int getVehicleId() {
-        return vehicleId;
-    }
-
-    public void setVehicleId(int vehicleId) {
-        this.vehicleId = vehicleId;
-    }
-
-    public int getSpeed() {
-        return speed;
-    }
-
-    public void setSpeed(int speed) {
-        this.speed = speed;
-    }
-
-    public int getDirection() {
-        return direction;
-    }
-
-    public void setDirection(int direction) {
-        this.direction = direction;
-    }
-
-    public int getDelay() {
-        return delay;
-    }
-
-    public void setDelay(int delay) {
-        this.delay = delay;
-    }
-
-    public Date getScheduledTripStartTime() {
-        return scheduledTripStartTime;
-    }
-
     public void setScheduledTripStartTime(String scheduledTripStartTime) throws ParseException {
         if (scheduledTripStartTime == null) {
             this.scheduledTripStartTime = null;
@@ -147,30 +72,6 @@ class Vehicle {
             calendar.add(Calendar.HOUR_OF_DAY, 1);
             this.scheduledTripStartTime = calendar.getTime();
         }
-    }
-
-    public double getLat() {
-        return lat;
-    }
-
-    public void setLat(double lat) {
-        this.lat = lat;
-    }
-
-    public double getLon() {
-        return lon;
-    }
-
-    public void setLon(double lon) {
-        this.lon = lon;
-    }
-
-    public int getGpsQuality() {
-        return gpsQuality;
-    }
-
-    public void setGpsQuality(int gpsQuality) {
-        this.gpsQuality = gpsQuality;
     }
 }
 

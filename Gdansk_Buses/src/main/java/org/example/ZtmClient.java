@@ -32,7 +32,6 @@ public class ZtmClient {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
         String formattedDate = formatter.format(currentDate);
 
-        ObjectMapper mapper = new ObjectMapper();
-        return mapper.convertValue(hashMap.get(formattedDate), StopsData.class);
+        return objectMapper.convertValue(hashMap.get(formattedDate), StopsData.class);
     }
 }
