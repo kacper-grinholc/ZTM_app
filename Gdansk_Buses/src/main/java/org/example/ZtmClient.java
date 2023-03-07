@@ -1,40 +1,38 @@
 package org.example;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.HashMap;
 
 public class ZtmClient {
-    private VehicleData vehicleData;
-    private StopsData stopsData;
 
-    @Override
-    public String toString() {
-        return "ZtmClient{" +
-                "vehicleData=" + vehicleData +
-                ", stopsData=" + stopsData +
-                '}';
-    }
-
-    public VehicleData getVehicleData() {
-        return vehicleData;
-    }
-
-    public void setVehicleData() throws IOException {
-        String url = "https://ckan2.multimediagdansk.pl/gpsPositions?v=2";
+    private final String baseUrl = "https://ckan.multimediagdansk.pl";
+    private final String baseUrl2 = "https://ckan2.multimediagdansk.pl";
+    private final String vehicleUrl = "/gpsPositions?v=2";
+    private final String stopUrl = "/dataset/c24aa637-3619-4dc2-a171-a23eec8f2172/resource/4c4025f0-01bf-41f7-a39f-d156d201b82b/download/stops.json";
+    public VehiclesData fetchVehicleData() throws IOException {
+        String url = baseUrl2 + vehicleUrl;
         ObjectMapper mapper = new ObjectMapper();
-        this.vehicleData = mapper.readValue(new URL(url), VehicleData.class);
+        return mapper.readValue(new URL(url), VehiclesData.class);
     }
 
-    public StopsData getStopsData() {
-        return stopsData;
-    }
+    public StopsData fetchStopsData() throws IOException {
+        String url = baseUrl + stopUrl;
 
-    public void setStopsData() throws IOException {
-        String url = "https://ckan.multimediagdansk.pl/dataset/c24aa637-3619-4dc2-a171-a23eec8f2172/resource/4c4025f0-01bf-41f7-a39f-d156d201b82b/download/stops.json";
+        ObjectMapper objectMapper = new ObjectMapper();
+        TypeReference<HashMap<String,Object>> typeRef = new TypeReference<HashMap<String,Object>>() {};
+        HashMap<String, Object> hashMap = objectMapper.readValue(new URL(url), typeRef);
+
+        Date currentDate = new Date();
+        SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
+        String formattedDate = formatter.format(currentDate);
+
         ObjectMapper mapper = new ObjectMapper();
-        this.stopsData = mapper.readValue(new URL(url), StopsData.class);
+        return mapper.convertValue(hashMap.get(formattedDate), StopsData.class);
     }
 }

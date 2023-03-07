@@ -8,14 +8,14 @@ import java.util.Date;
 
 public class StopsData {
     private Date lastUpdate;
-    private Vehicle[] vehicles;
+    private Stop[] stops;
     SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 
     @Override
     public String toString() {
         return "StopsData{" +
                 "\n\tlastUpdate=" + lastUpdate +
-                ", vehicles=" + Arrays.toString(vehicles) +
+                ", stops=" + Arrays.toString(stops) +
                 '}';
     }
 
@@ -36,11 +36,11 @@ public class StopsData {
         }
     }
 
-    public Vehicle[] getVehicles() {
-        return vehicles;
+    public Stop[] getStops() {
+        return stops;
     }
 
-    public void setVehicles(Vehicle[] vehicles) {
-        this.vehicles = vehicles;
+    public void setStops(Stop[] stops) {
+        this.stops = stops;
     }
 }

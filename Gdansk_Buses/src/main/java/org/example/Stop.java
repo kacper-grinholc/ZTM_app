@@ -1,8 +1,9 @@
 package org.example;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 
 public class Stop {
@@ -27,6 +28,7 @@ public class Stop {
     private String locationType;
     private String parentStation;
     private String stopTimezone;
+    @JsonIgnore
     private String wheelchairBoarding;
 
     SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
@@ -55,8 +57,6 @@ public class Stop {
                 ",\n\tstopUrl='" + stopUrl + '\'' +
                 ",\n\tlocationType='" + locationType + '\'' +
                 ",\n\tparentStation='" + parentStation + '\'' +
-                ",\n\tstopTimezone='" + stopTimezone + '\'' +
-                ",\n\twheelchairBoarding='" + wheelchairBoarding + '\'' +
                 '}';
     }
 

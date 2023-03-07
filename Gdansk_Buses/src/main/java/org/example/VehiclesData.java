@@ -6,14 +6,14 @@ import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Date;
 
-public class VehicleData {
+public class VehiclesData {
     private Date lastUpdate;
     private Vehicle[] vehicles;
     SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
 
     @Override
     public String toString() {
-        return "VehicleData{" +
+        return "VehiclesData{" +
                 "\n\tlastUpdate='" + lastUpdate + '\'' +
                 ",\nvehicles=" + Arrays.toString(vehicles) +
                 '}';

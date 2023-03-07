@@ -5,9 +5,8 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        ZtmClient ztmClient = new ZtmClient();
-        ztmClient.setVehicleData();
-        ztmClient.setStopsData();
-        System.out.println(ztmClient);
+        ZtmManager ztmManager = new ZtmManager();
+        ztmManager.init();
+        System.out.println(ztmManager.getStopsData());
     }
 }
