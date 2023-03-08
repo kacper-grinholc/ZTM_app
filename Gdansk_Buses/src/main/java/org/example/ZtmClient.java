@@ -1,8 +1,11 @@
 package org.example;
 
 import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.core.util.DefaultPrettyPrinter;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.ObjectWriter;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 import java.text.SimpleDateFormat;
@@ -19,7 +22,8 @@ public class ZtmClient {
     public VehiclesData fetchVehicleData() throws IOException {
         String url = baseUrl2 + vehicleUrl;
         ObjectMapper mapper = new ObjectMapper();
-        return mapper.readValue(new URL(url), VehiclesData.class);
+//        return mapper.readValue(new URL(url), VehiclesData.class);
+        return mapper.readValue(new File("src/main/resources/vehicles.json"), VehiclesData.class);
     }
 
     public StopsData fetchStopsData() throws IOException {
@@ -28,7 +32,8 @@ public class ZtmClient {
         ObjectMapper objectMapper = new ObjectMapper();
         TypeReference<HashMap<String, Object>> typeRef = new TypeReference<HashMap<String, Object>>() {
         };
-        HashMap<String, Object> hashMap = objectMapper.readValue(new URL(url), typeRef);
+//        HashMap<String, Object> hashMap = objectMapper.readValue(new URL(url), typeRef);
+        HashMap<String, Object> hashMap = objectMapper.readValue(new File("src/main/resources/stops.json"), typeRef);
 
         Date currentDate = new Date();
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
@@ -37,9 +42,12 @@ public class ZtmClient {
         return objectMapper.convertValue(hashMap.get(formattedDate), StopsData.class);
     }
 
-    public RouteData fetchRouteData(String routeId) throws IOException {
-        String url = "https://ckan2.multimediagdansk.pl/stopTimes?date=2023-03-07&routeId=6";
+    public RouteData fetchRouteData(String date,Vehicle vehicle) throws IOException{
+        String url = "https://ckan2.multimediagdansk.pl/stopTimes?date=" + date + "&routeId=" + vehicle.vehicleService.substring(0, 3).replaceAll("^0+(?!$)", "");
         ObjectMapper mapper = new ObjectMapper();
-        return mapper.readValue(new URL(url), RouteData.class);
+        ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
+
+//        return mapper.readValue(new URL(url), RouteData.class);
+        return mapper.readValue(new File("src/main/resources/2023-03-08" + vehicle.vehicleService.substring(0, 3).replaceAll("^0+(?!$)", "") + ".json"), RouteData.class);
     }
 }

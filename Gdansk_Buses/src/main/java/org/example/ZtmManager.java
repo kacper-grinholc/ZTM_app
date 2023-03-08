@@ -1,57 +1,78 @@
 package org.example;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.IOException;
-import java.net.URL;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.Objects;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class ZtmManager {
+    ZtmClient ztmClient = new ZtmClient();
     private VehiclesData vehiclesData;
     private StopsData stopsData;
 
+    SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+    SimpleDateFormat timeFormat = new SimpleDateFormat("HH:mm:ss");
+
     public void init() throws IOException {
-        ZtmClient ztmClient = new ZtmClient();
-        this.vehiclesData = ztmClient.fetchVehicleData();
         this.stopsData = ztmClient.fetchStopsData();
+        setVehiclesRoute();
+        addStopsToRoute();
+    }
+
+    private void setVehiclesRoute() throws IOException {
+        VehiclesData vehiclesData = ztmClient.fetchVehicleData();
+        vehiclesData.getVehicles().removeIf( vehicle -> vehicle.tripId == null && vehicle.scheduledTripStartTime == null);
+        List<Vehicle> vehicles = new ArrayList<>();
         Date currentDate = new Date();
-        SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
-        String formattedDate = formatter.format(currentDate);
+        String formattedDate = dateFormat.format(currentDate);
         for (Vehicle vehicle : vehiclesData.getVehicles()) {
-            String url = "https://ckan2.multimediagdansk.pl/stopTimes?date=" + formattedDate + "&routeId=" + vehicle.vehicleService.substring(0, 3).replaceAll("^0+(?!$)", "");
-            ObjectMapper mapper = new ObjectMapper();
-            RouteData routeData = mapper.readValue(new URL(url), RouteData.class);
-            int first_stop_id = 0;
-            int first_stop_order = 0;
-            String first_stop_busServiceName = "";
-            for (RouteStop el : routeData.stopTimes) {
-                if (el.tripId == vehicle.tripId && Objects.equals(el.busServiceName, vehicle.vehicleService)) {
-                    SimpleDateFormat formatter2 = new SimpleDateFormat("HH:mm:ss");
-                    String formattedTime1 = formatter2.format(el.departureTime);
-                    String formattedTime2 = formatter2.format(vehicle.scheduledTripStartTime);
-                    if (Objects.equals(formattedTime1, formattedTime2)) {
-                        first_stop_id = el.variantId;
-                        first_stop_order = el.order;
-                        first_stop_busServiceName = el.busServiceName;
-                    }
-                }
+            RouteData downloadedRoutes = ztmClient.fetchRouteData(formattedDate, vehicle);
+            final Optional<RouteStop> firstStop = findFirstStop(vehicle, downloadedRoutes);
+            if (firstStop.isEmpty()){
+                continue;
             }
-            List<RouteStop> routeStops = new ArrayList<RouteStop>();
-            System.out.println(first_stop_id + " " + vehicle.routeShortName);
-            for (RouteStop el : routeData.stopTimes) {
-                if (el.variantId == first_stop_id && el.order == first_stop_order && Objects.equals(el.busServiceName, first_stop_busServiceName)) {
-                    routeStops.add(el);
-                }
-            }
-            RouteData result = new RouteData();
-            result.lastUpdate = routeData.lastUpdate;
-            result.stopTimes = routeStops;
-            vehicle.routeData = result;
+            System.out.println(firstStop.get().stopId + " " + vehicle.routeShortName);
+
+            final List<RouteStop> routeStops = findAllStops(downloadedRoutes, firstStop.get());
+
+            vehicle.routeData = new RouteData(downloadedRoutes.lastUpdate, routeStops);
+            vehicles.add(vehicle);
         }
+        vehiclesData.setVehicles(vehicles);
+        this.vehiclesData = vehiclesData;
+    }
+
+    private static List<RouteStop> findAllStops(RouteData downloadedRoutes, RouteStop firstStop) {
+        return downloadedRoutes.stopTimes.stream()
+                .filter(el -> isStopOnRoute(firstStop, el))
+                .toList();
+    }
+
+    public void addStopsToRoute(){
+        List<Stop> stops = stopsData.getStops();
+        Map<Integer, Stop> stopIdMap = stops.stream().collect(Collectors.toMap(i -> i.stopId, i -> i));
+        this.vehiclesData.getVehicles().forEach( v -> {
+            v.routeData.stopTimes.forEach(s -> {
+                s.stop = stopIdMap.get(s.stopId);
+            });
+        });
+    }
+
+    private Optional<RouteStop> findFirstStop(Vehicle vehicle, RouteData downloadedRoutes) {
+        return downloadedRoutes.stopTimes.stream()
+                .filter(stop -> isFirstStopOnRoute(vehicle, stop))
+                .findFirst();
+    }
+
+
+    private boolean isFirstStopOnRoute(Vehicle vehicle, RouteStop stop) {
+        String formattedTime1 = timeFormat.format(stop.departureTime);
+        String formattedTime2 = timeFormat.format(vehicle.scheduledTripStartTime);
+        return stop.tripId == vehicle.tripId && stop.busServiceName.equals(vehicle.vehicleService) && formattedTime1.equals(formattedTime2);
+    }
+
+    private static boolean isStopOnRoute(RouteStop firstStop, RouteStop el) {
+        return el.variantId == firstStop.variantId && el.order == firstStop.order && Objects.equals(el.busServiceName, firstStop.busServiceName);
     }
 
     @Override

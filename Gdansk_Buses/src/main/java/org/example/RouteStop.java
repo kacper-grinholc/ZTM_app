@@ -18,9 +18,10 @@ public class RouteStop {
     public int variantId;
     public String busServiceName;
     public int order;
+    public Stop stop;
 
     @Override
     public String toString() {
-        return "\nRouteStop{" + "\n\trouteId=" + routeId + ",\n\ttripId=" + tripId + ",\n\tarrivalTime=" + arrivalTime + ",\n\tdepartureTime=" + departureTime + ",\n\tstopId=" + stopId + ",\n\tstopSequence=" + stopSequence + ",\n\tvariantId=" + variantId + ",\n\tbusServiceName='" + busServiceName + '\'' + ",\n\torder=" + order + '}';
+        return "\nRouteStop{" + "\n\trouteId=" + routeId + ",\n\ttripId=" + tripId + ",\n\tarrivalTime=" + arrivalTime + ",\n\tdepartureTime=" + departureTime + ",\n\tstopId=" + stopId + ",\n\tstopSequence=" + stopSequence + ",\n\tvariantId=" + variantId + ",\n\tbusServiceName='" + busServiceName + '\'' + ",\n\torder=" + order + ",\n\tstop=" + stop + '}';
     }
 }

@@ -16,4 +16,12 @@ public class RouteData {
     public String toString() {
         return "RouteData{" + "lastUpdate=" + lastUpdate + ", stopTimes=" + stopTimes + '}';
     }
+
+    public RouteData() {
+    }
+
+    public RouteData(Date lastUpdate, List<RouteStop> stopTimes) {
+        this.lastUpdate = lastUpdate;
+        this.stopTimes = stopTimes;
+    }
 }

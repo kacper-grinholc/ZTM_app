@@ -10,7 +10,7 @@ class Vehicle {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "UTC")
     public Date generated;
     public String routeShortName;
-    public int tripId;
+    public Integer tripId;
     public String headsign;
     public String vehicleCode;
     public String vehicleService;
@@ -31,7 +31,7 @@ class Vehicle {
     @Override
     public String toString() {
         return "\nVehices{" + "\n\tgenerated='" + generated + '\'' + ",\n\trouteShortName='" + routeShortName + '\'' + ",\n\ttripId=" + tripId + ",\n\theadsign='" + headsign + '\'' +
-//                ",\n\tvehicleCode='" + vehicleCode + '\'' +
+                ",\n\tvehicleCode='" + vehicleCode + '\'' +
                 ",\n\tvehicleService='" + vehicleService + '\'' +
 //                ",\n\tvehicleId=" + vehicleId +
 //                ",\n\tspeed=" + speed +
