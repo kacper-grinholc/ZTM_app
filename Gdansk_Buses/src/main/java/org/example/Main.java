@@ -7,6 +7,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
         ZtmManager ztmManager = new ZtmManager();
         ztmManager.init();
-        System.out.println(ztmManager.getVehicleData());
+        System.out.println(ztmManager.getVehiclesData().getVehicles().get(0));
     }
 }

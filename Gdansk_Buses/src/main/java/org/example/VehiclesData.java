@@ -2,26 +2,27 @@ package org.example;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
-import java.util.Arrays;
 import java.util.Date;
+import java.util.List;
 
 public class VehiclesData {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "UTC")
     public Date lastUpdate;
-    private Vehicle[] vehicles;
+    private List<Vehicle> vehicles;
 
     @Override
     public String toString() {
         return "VehiclesData{" +
-                "\n\tlastUpdate='" + lastUpdate + '\'' +
-                ",\nvehicles=" + Arrays.toString(vehicles) +
+                "lastUpdate=" + lastUpdate +
+                ", vehicles=" + vehicles +
                 '}';
     }
-    public Vehicle[] getVehicles() {
+
+    public List<Vehicle> getVehicles() {
         return vehicles;
     }
 
-    public void setVehicles(Vehicle[] vehicles) {
-        this.vehicles = vehicles;
+    public void setVehicles(List<Vehicle> vehices) {
+        this.vehicles = vehices;
     }
 }

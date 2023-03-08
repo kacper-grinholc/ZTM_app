@@ -1,6 +1,7 @@
 package org.example;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Stop {
     public int stopId;
@@ -15,16 +16,6 @@ public class Stop {
 
     @Override
     public String toString() {
-        return "\nStop{" +
-                "\n\tstopId=" + stopId +
-                ",\n\tstopName='" + stopName + '\'' +
-                ",\n\tstopDesc='" + stopDesc + '\'' +
-                ",\n\tsubName='" + subName + '\'' +
-                ",\n\tzoneId=" + zoneId +
-                ",\n\tzoneName='" + zoneName + '\'' +
-                ",\n\tonDemand=" + onDemand +
-                ",\n\tstopLat=" + stopLat +
-                ",\n\tstopLon=" + stopLon +
-                '}';
+        return "\nStop{" + "\n\tstopId=" + stopId + ",\n\tstopName='" + stopName + '\'' + ",\n\tstopDesc='" + stopDesc + '\'' + ",\n\tsubName='" + subName + '\'' + ",\n\tzoneId=" + zoneId + ",\n\tzoneName='" + zoneName + '\'' + ",\n\tonDemand=" + onDemand + ",\n\tstopLat=" + stopLat + ",\n\tstopLon=" + stopLon + '}';
     }
 }
