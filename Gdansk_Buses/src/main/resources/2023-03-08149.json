@@ -1,0 +1,6874 @@
+{
+  "lastUpdate" : "2023-03-08 02:40:55",
+  "stopTimes" : [ {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:08:00",
+    "departureTime" : "1899-12-30T06:08:00",
+    "stopId" : 313,
+    "stopSequence" : 0,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:08:00",
+    "departureTime" : "1899-12-30T06:08:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:11:00",
+    "departureTime" : "1899-12-30T06:11:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:13:00",
+    "departureTime" : "1899-12-30T06:13:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:14:00",
+    "departureTime" : "1899-12-30T06:14:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:15:00",
+    "departureTime" : "1899-12-30T06:15:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:17:00",
+    "departureTime" : "1899-12-30T06:17:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:18:00",
+    "departureTime" : "1899-12-30T06:18:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:19:00",
+    "departureTime" : "1899-12-30T06:19:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:20:00",
+    "departureTime" : "1899-12-30T06:20:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:21:00",
+    "departureTime" : "1899-12-30T06:21:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:24:00",
+    "departureTime" : "1899-12-30T06:24:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:26:00",
+    "departureTime" : "1899-12-30T06:26:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:28:00",
+    "departureTime" : "1899-12-30T06:28:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:29:00",
+    "departureTime" : "1899-12-30T06:29:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:30:00",
+    "departureTime" : "1899-12-30T06:30:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:31:00",
+    "departureTime" : "1899-12-30T06:31:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:33:00",
+    "departureTime" : "1899-12-30T06:33:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:35:00",
+    "departureTime" : "1899-12-30T06:35:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:37:00",
+    "departureTime" : "1899-12-30T06:37:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:40:00",
+    "departureTime" : "1899-12-30T06:40:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:42:00",
+    "departureTime" : "1899-12-30T06:42:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:43:00",
+    "departureTime" : "1899-12-30T06:43:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:46:00",
+    "departureTime" : "1899-12-30T06:46:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:48:00",
+    "departureTime" : "1899-12-30T06:48:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:49:00",
+    "departureTime" : "1899-12-30T06:49:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:51:00",
+    "departureTime" : "1899-12-30T06:51:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:53:00",
+    "departureTime" : "1899-12-30T06:53:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:55:00",
+    "departureTime" : "1899-12-30T06:55:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:57:00",
+    "departureTime" : "1899-12-30T06:57:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:58:00",
+    "departureTime" : "1899-12-30T06:58:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930693,
+    "busServiceName" : "149-01",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:08:00",
+    "departureTime" : "1899-12-30T07:08:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:08:00",
+    "departureTime" : "1899-12-30T07:08:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:12:00",
+    "departureTime" : "1899-12-30T07:12:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:14:00",
+    "departureTime" : "1899-12-30T07:14:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:15:00",
+    "departureTime" : "1899-12-30T07:15:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:16:00",
+    "departureTime" : "1899-12-30T07:16:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:18:00",
+    "departureTime" : "1899-12-30T07:18:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:19:00",
+    "departureTime" : "1899-12-30T07:19:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:20:00",
+    "departureTime" : "1899-12-30T07:20:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:22:00",
+    "departureTime" : "1899-12-30T07:22:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:23:00",
+    "departureTime" : "1899-12-30T07:23:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:26:00",
+    "departureTime" : "1899-12-30T07:26:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:28:00",
+    "departureTime" : "1899-12-30T07:28:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:30:00",
+    "departureTime" : "1899-12-30T07:30:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:31:00",
+    "departureTime" : "1899-12-30T07:31:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:32:00",
+    "departureTime" : "1899-12-30T07:32:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:33:00",
+    "departureTime" : "1899-12-30T07:33:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:35:00",
+    "departureTime" : "1899-12-30T07:35:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:37:00",
+    "departureTime" : "1899-12-30T07:37:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:39:00",
+    "departureTime" : "1899-12-30T07:39:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:42:00",
+    "departureTime" : "1899-12-30T07:42:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:44:00",
+    "departureTime" : "1899-12-30T07:44:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:45:00",
+    "departureTime" : "1899-12-30T07:45:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:48:00",
+    "departureTime" : "1899-12-30T07:48:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:50:00",
+    "departureTime" : "1899-12-30T07:50:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:51:00",
+    "departureTime" : "1899-12-30T07:51:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:53:00",
+    "departureTime" : "1899-12-30T07:53:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:55:00",
+    "departureTime" : "1899-12-30T07:55:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:57:00",
+    "departureTime" : "1899-12-30T07:57:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:59:00",
+    "departureTime" : "1899-12-30T07:59:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:00:00",
+    "departureTime" : "1899-12-30T08:00:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:08:00",
+    "departureTime" : "1899-12-30T08:08:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:08:00",
+    "departureTime" : "1899-12-30T08:08:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:12:00",
+    "departureTime" : "1899-12-30T08:12:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:14:00",
+    "departureTime" : "1899-12-30T08:14:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:15:00",
+    "departureTime" : "1899-12-30T08:15:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:16:00",
+    "departureTime" : "1899-12-30T08:16:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:18:00",
+    "departureTime" : "1899-12-30T08:18:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:19:00",
+    "departureTime" : "1899-12-30T08:19:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:20:00",
+    "departureTime" : "1899-12-30T08:20:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:22:00",
+    "departureTime" : "1899-12-30T08:22:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:23:00",
+    "departureTime" : "1899-12-30T08:23:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:26:00",
+    "departureTime" : "1899-12-30T08:26:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:28:00",
+    "departureTime" : "1899-12-30T08:28:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:30:00",
+    "departureTime" : "1899-12-30T08:30:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:31:00",
+    "departureTime" : "1899-12-30T08:31:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:32:00",
+    "departureTime" : "1899-12-30T08:32:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:33:00",
+    "departureTime" : "1899-12-30T08:33:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:35:00",
+    "departureTime" : "1899-12-30T08:35:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:37:00",
+    "departureTime" : "1899-12-30T08:37:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:39:00",
+    "departureTime" : "1899-12-30T08:39:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:42:00",
+    "departureTime" : "1899-12-30T08:42:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:44:00",
+    "departureTime" : "1899-12-30T08:44:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:45:00",
+    "departureTime" : "1899-12-30T08:45:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:48:00",
+    "departureTime" : "1899-12-30T08:48:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:50:00",
+    "departureTime" : "1899-12-30T08:50:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:51:00",
+    "departureTime" : "1899-12-30T08:51:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:53:00",
+    "departureTime" : "1899-12-30T08:53:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:55:00",
+    "departureTime" : "1899-12-30T08:55:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:57:00",
+    "departureTime" : "1899-12-30T08:57:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:59:00",
+    "departureTime" : "1899-12-30T08:59:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:00:00",
+    "departureTime" : "1899-12-30T09:00:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:38:00",
+    "departureTime" : "1899-12-30T09:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:38:00",
+    "departureTime" : "1899-12-30T09:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:41:00",
+    "departureTime" : "1899-12-30T09:41:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:43:00",
+    "departureTime" : "1899-12-30T09:43:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:44:00",
+    "departureTime" : "1899-12-30T09:44:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:45:00",
+    "departureTime" : "1899-12-30T09:45:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:47:00",
+    "departureTime" : "1899-12-30T09:47:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:48:00",
+    "departureTime" : "1899-12-30T09:48:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:49:00",
+    "departureTime" : "1899-12-30T09:49:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:51:00",
+    "departureTime" : "1899-12-30T09:51:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:52:00",
+    "departureTime" : "1899-12-30T09:52:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:55:00",
+    "departureTime" : "1899-12-30T09:55:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:57:00",
+    "departureTime" : "1899-12-30T09:57:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:59:00",
+    "departureTime" : "1899-12-30T09:59:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:00:00",
+    "departureTime" : "1899-12-30T10:00:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:01:00",
+    "departureTime" : "1899-12-30T10:01:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:02:00",
+    "departureTime" : "1899-12-30T10:02:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:04:00",
+    "departureTime" : "1899-12-30T10:04:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:06:00",
+    "departureTime" : "1899-12-30T10:06:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:08:00",
+    "departureTime" : "1899-12-30T10:08:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:11:00",
+    "departureTime" : "1899-12-30T10:11:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:13:00",
+    "departureTime" : "1899-12-30T10:13:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:15:00",
+    "departureTime" : "1899-12-30T10:15:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:18:00",
+    "departureTime" : "1899-12-30T10:18:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:20:00",
+    "departureTime" : "1899-12-30T10:20:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:21:00",
+    "departureTime" : "1899-12-30T10:21:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:23:00",
+    "departureTime" : "1899-12-30T10:23:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:25:00",
+    "departureTime" : "1899-12-30T10:25:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:27:00",
+    "departureTime" : "1899-12-30T10:27:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:29:00",
+    "departureTime" : "1899-12-30T10:29:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:30:00",
+    "departureTime" : "1899-12-30T10:30:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:38:00",
+    "departureTime" : "1899-12-30T10:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:38:00",
+    "departureTime" : "1899-12-30T10:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:41:00",
+    "departureTime" : "1899-12-30T10:41:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:43:00",
+    "departureTime" : "1899-12-30T10:43:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:44:00",
+    "departureTime" : "1899-12-30T10:44:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:45:00",
+    "departureTime" : "1899-12-30T10:45:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:47:00",
+    "departureTime" : "1899-12-30T10:47:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:48:00",
+    "departureTime" : "1899-12-30T10:48:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:49:00",
+    "departureTime" : "1899-12-30T10:49:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:51:00",
+    "departureTime" : "1899-12-30T10:51:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:52:00",
+    "departureTime" : "1899-12-30T10:52:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:55:00",
+    "departureTime" : "1899-12-30T10:55:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:57:00",
+    "departureTime" : "1899-12-30T10:57:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T10:59:00",
+    "departureTime" : "1899-12-30T10:59:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:00:00",
+    "departureTime" : "1899-12-30T11:00:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:01:00",
+    "departureTime" : "1899-12-30T11:01:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:02:00",
+    "departureTime" : "1899-12-30T11:02:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:04:00",
+    "departureTime" : "1899-12-30T11:04:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:06:00",
+    "departureTime" : "1899-12-30T11:06:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:08:00",
+    "departureTime" : "1899-12-30T11:08:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:11:00",
+    "departureTime" : "1899-12-30T11:11:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:13:00",
+    "departureTime" : "1899-12-30T11:13:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:15:00",
+    "departureTime" : "1899-12-30T11:15:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:18:00",
+    "departureTime" : "1899-12-30T11:18:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:20:00",
+    "departureTime" : "1899-12-30T11:20:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:21:00",
+    "departureTime" : "1899-12-30T11:21:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:23:00",
+    "departureTime" : "1899-12-30T11:23:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:25:00",
+    "departureTime" : "1899-12-30T11:25:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:27:00",
+    "departureTime" : "1899-12-30T11:27:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:29:00",
+    "departureTime" : "1899-12-30T11:29:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:30:00",
+    "departureTime" : "1899-12-30T11:30:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:38:00",
+    "departureTime" : "1899-12-30T11:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:38:00",
+    "departureTime" : "1899-12-30T11:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:41:00",
+    "departureTime" : "1899-12-30T11:41:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:43:00",
+    "departureTime" : "1899-12-30T11:43:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:44:00",
+    "departureTime" : "1899-12-30T11:44:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:45:00",
+    "departureTime" : "1899-12-30T11:45:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:47:00",
+    "departureTime" : "1899-12-30T11:47:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:48:00",
+    "departureTime" : "1899-12-30T11:48:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:49:00",
+    "departureTime" : "1899-12-30T11:49:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:51:00",
+    "departureTime" : "1899-12-30T11:51:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:52:00",
+    "departureTime" : "1899-12-30T11:52:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:55:00",
+    "departureTime" : "1899-12-30T11:55:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:57:00",
+    "departureTime" : "1899-12-30T11:57:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T11:59:00",
+    "departureTime" : "1899-12-30T11:59:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:00:00",
+    "departureTime" : "1899-12-30T12:00:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:01:00",
+    "departureTime" : "1899-12-30T12:01:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:02:00",
+    "departureTime" : "1899-12-30T12:02:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:04:00",
+    "departureTime" : "1899-12-30T12:04:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:06:00",
+    "departureTime" : "1899-12-30T12:06:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:08:00",
+    "departureTime" : "1899-12-30T12:08:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:11:00",
+    "departureTime" : "1899-12-30T12:11:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:13:00",
+    "departureTime" : "1899-12-30T12:13:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:15:00",
+    "departureTime" : "1899-12-30T12:15:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:18:00",
+    "departureTime" : "1899-12-30T12:18:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:20:00",
+    "departureTime" : "1899-12-30T12:20:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:21:00",
+    "departureTime" : "1899-12-30T12:21:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:23:00",
+    "departureTime" : "1899-12-30T12:23:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:25:00",
+    "departureTime" : "1899-12-30T12:25:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:27:00",
+    "departureTime" : "1899-12-30T12:27:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:29:00",
+    "departureTime" : "1899-12-30T12:29:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:30:00",
+    "departureTime" : "1899-12-30T12:30:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 7
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:38:00",
+    "departureTime" : "1899-12-30T12:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:38:00",
+    "departureTime" : "1899-12-30T12:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:41:00",
+    "departureTime" : "1899-12-30T12:41:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:43:00",
+    "departureTime" : "1899-12-30T12:43:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:44:00",
+    "departureTime" : "1899-12-30T12:44:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:45:00",
+    "departureTime" : "1899-12-30T12:45:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:47:00",
+    "departureTime" : "1899-12-30T12:47:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:48:00",
+    "departureTime" : "1899-12-30T12:48:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:49:00",
+    "departureTime" : "1899-12-30T12:49:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:51:00",
+    "departureTime" : "1899-12-30T12:51:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:52:00",
+    "departureTime" : "1899-12-30T12:52:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:55:00",
+    "departureTime" : "1899-12-30T12:55:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:57:00",
+    "departureTime" : "1899-12-30T12:57:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T12:59:00",
+    "departureTime" : "1899-12-30T12:59:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:00:00",
+    "departureTime" : "1899-12-30T13:00:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:01:00",
+    "departureTime" : "1899-12-30T13:01:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:02:00",
+    "departureTime" : "1899-12-30T13:02:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:04:00",
+    "departureTime" : "1899-12-30T13:04:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:06:00",
+    "departureTime" : "1899-12-30T13:06:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:08:00",
+    "departureTime" : "1899-12-30T13:08:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:11:00",
+    "departureTime" : "1899-12-30T13:11:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:13:00",
+    "departureTime" : "1899-12-30T13:13:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:15:00",
+    "departureTime" : "1899-12-30T13:15:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:18:00",
+    "departureTime" : "1899-12-30T13:18:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:20:00",
+    "departureTime" : "1899-12-30T13:20:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:21:00",
+    "departureTime" : "1899-12-30T13:21:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:23:00",
+    "departureTime" : "1899-12-30T13:23:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:25:00",
+    "departureTime" : "1899-12-30T13:25:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:27:00",
+    "departureTime" : "1899-12-30T13:27:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:29:00",
+    "departureTime" : "1899-12-30T13:29:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:30:00",
+    "departureTime" : "1899-12-30T13:30:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 8
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:38:00",
+    "departureTime" : "1899-12-30T13:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:38:00",
+    "departureTime" : "1899-12-30T13:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:41:00",
+    "departureTime" : "1899-12-30T13:41:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:43:00",
+    "departureTime" : "1899-12-30T13:43:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:44:00",
+    "departureTime" : "1899-12-30T13:44:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:45:00",
+    "departureTime" : "1899-12-30T13:45:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:47:00",
+    "departureTime" : "1899-12-30T13:47:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:48:00",
+    "departureTime" : "1899-12-30T13:48:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:49:00",
+    "departureTime" : "1899-12-30T13:49:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:51:00",
+    "departureTime" : "1899-12-30T13:51:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:52:00",
+    "departureTime" : "1899-12-30T13:52:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:55:00",
+    "departureTime" : "1899-12-30T13:55:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:57:00",
+    "departureTime" : "1899-12-30T13:57:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T13:59:00",
+    "departureTime" : "1899-12-30T13:59:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:00:00",
+    "departureTime" : "1899-12-30T14:00:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:01:00",
+    "departureTime" : "1899-12-30T14:01:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:02:00",
+    "departureTime" : "1899-12-30T14:02:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:04:00",
+    "departureTime" : "1899-12-30T14:04:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:06:00",
+    "departureTime" : "1899-12-30T14:06:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:08:00",
+    "departureTime" : "1899-12-30T14:08:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:11:00",
+    "departureTime" : "1899-12-30T14:11:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:13:00",
+    "departureTime" : "1899-12-30T14:13:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:15:00",
+    "departureTime" : "1899-12-30T14:15:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:18:00",
+    "departureTime" : "1899-12-30T14:18:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:20:00",
+    "departureTime" : "1899-12-30T14:20:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:21:00",
+    "departureTime" : "1899-12-30T14:21:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:23:00",
+    "departureTime" : "1899-12-30T14:23:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:25:00",
+    "departureTime" : "1899-12-30T14:25:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:27:00",
+    "departureTime" : "1899-12-30T14:27:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:29:00",
+    "departureTime" : "1899-12-30T14:29:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:30:00",
+    "departureTime" : "1899-12-30T14:30:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 9
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:38:00",
+    "departureTime" : "1899-12-30T14:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:38:00",
+    "departureTime" : "1899-12-30T14:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:42:00",
+    "departureTime" : "1899-12-30T14:42:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:44:00",
+    "departureTime" : "1899-12-30T14:44:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:46:00",
+    "departureTime" : "1899-12-30T14:46:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:47:00",
+    "departureTime" : "1899-12-30T14:47:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:49:00",
+    "departureTime" : "1899-12-30T14:49:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:50:00",
+    "departureTime" : "1899-12-30T14:50:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:51:00",
+    "departureTime" : "1899-12-30T14:51:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:53:00",
+    "departureTime" : "1899-12-30T14:53:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:54:00",
+    "departureTime" : "1899-12-30T14:54:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:57:00",
+    "departureTime" : "1899-12-30T14:57:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:59:00",
+    "departureTime" : "1899-12-30T14:59:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:01:00",
+    "departureTime" : "1899-12-30T15:01:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:02:00",
+    "departureTime" : "1899-12-30T15:02:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:03:00",
+    "departureTime" : "1899-12-30T15:03:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:04:00",
+    "departureTime" : "1899-12-30T15:04:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:06:00",
+    "departureTime" : "1899-12-30T15:06:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:08:00",
+    "departureTime" : "1899-12-30T15:08:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:10:00",
+    "departureTime" : "1899-12-30T15:10:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:14:00",
+    "departureTime" : "1899-12-30T15:14:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:16:00",
+    "departureTime" : "1899-12-30T15:16:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:18:00",
+    "departureTime" : "1899-12-30T15:18:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:21:00",
+    "departureTime" : "1899-12-30T15:21:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:23:00",
+    "departureTime" : "1899-12-30T15:23:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:24:00",
+    "departureTime" : "1899-12-30T15:24:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:26:00",
+    "departureTime" : "1899-12-30T15:26:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:28:00",
+    "departureTime" : "1899-12-30T15:28:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:30:00",
+    "departureTime" : "1899-12-30T15:30:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:32:00",
+    "departureTime" : "1899-12-30T15:32:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:33:00",
+    "departureTime" : "1899-12-30T15:33:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 10
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:53:00",
+    "departureTime" : "1899-12-30T15:53:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:53:00",
+    "departureTime" : "1899-12-30T15:53:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:57:00",
+    "departureTime" : "1899-12-30T15:57:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:00:00",
+    "departureTime" : "1899-12-30T16:00:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:02:00",
+    "departureTime" : "1899-12-30T16:02:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:04:00",
+    "departureTime" : "1899-12-30T16:04:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:06:00",
+    "departureTime" : "1899-12-30T16:06:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:07:00",
+    "departureTime" : "1899-12-30T16:07:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:08:00",
+    "departureTime" : "1899-12-30T16:08:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:10:00",
+    "departureTime" : "1899-12-30T16:10:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:11:00",
+    "departureTime" : "1899-12-30T16:11:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:14:00",
+    "departureTime" : "1899-12-30T16:14:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:17:00",
+    "departureTime" : "1899-12-30T16:17:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:19:00",
+    "departureTime" : "1899-12-30T16:19:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:20:00",
+    "departureTime" : "1899-12-30T16:20:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:21:00",
+    "departureTime" : "1899-12-30T16:21:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:22:00",
+    "departureTime" : "1899-12-30T16:22:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:24:00",
+    "departureTime" : "1899-12-30T16:24:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:26:00",
+    "departureTime" : "1899-12-30T16:26:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:28:00",
+    "departureTime" : "1899-12-30T16:28:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:32:00",
+    "departureTime" : "1899-12-30T16:32:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:34:00",
+    "departureTime" : "1899-12-30T16:34:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:36:00",
+    "departureTime" : "1899-12-30T16:36:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:39:00",
+    "departureTime" : "1899-12-30T16:39:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:41:00",
+    "departureTime" : "1899-12-30T16:41:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:42:00",
+    "departureTime" : "1899-12-30T16:42:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:44:00",
+    "departureTime" : "1899-12-30T16:44:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:46:00",
+    "departureTime" : "1899-12-30T16:46:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:48:00",
+    "departureTime" : "1899-12-30T16:48:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:50:00",
+    "departureTime" : "1899-12-30T16:50:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:51:00",
+    "departureTime" : "1899-12-30T16:51:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 11
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:13:00",
+    "departureTime" : "1899-12-30T17:13:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:13:00",
+    "departureTime" : "1899-12-30T17:13:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:17:00",
+    "departureTime" : "1899-12-30T17:17:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:20:00",
+    "departureTime" : "1899-12-30T17:20:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:22:00",
+    "departureTime" : "1899-12-30T17:22:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:24:00",
+    "departureTime" : "1899-12-30T17:24:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:26:00",
+    "departureTime" : "1899-12-30T17:26:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:27:00",
+    "departureTime" : "1899-12-30T17:27:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:28:00",
+    "departureTime" : "1899-12-30T17:28:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:30:00",
+    "departureTime" : "1899-12-30T17:30:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:31:00",
+    "departureTime" : "1899-12-30T17:31:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:34:00",
+    "departureTime" : "1899-12-30T17:34:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:37:00",
+    "departureTime" : "1899-12-30T17:37:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:39:00",
+    "departureTime" : "1899-12-30T17:39:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:40:00",
+    "departureTime" : "1899-12-30T17:40:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:41:00",
+    "departureTime" : "1899-12-30T17:41:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:42:00",
+    "departureTime" : "1899-12-30T17:42:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:44:00",
+    "departureTime" : "1899-12-30T17:44:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:46:00",
+    "departureTime" : "1899-12-30T17:46:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:48:00",
+    "departureTime" : "1899-12-30T17:48:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:52:00",
+    "departureTime" : "1899-12-30T17:52:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:53:00",
+    "departureTime" : "1899-12-30T17:53:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:55:00",
+    "departureTime" : "1899-12-30T17:55:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:58:00",
+    "departureTime" : "1899-12-30T17:58:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:00:00",
+    "departureTime" : "1899-12-30T18:00:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:01:00",
+    "departureTime" : "1899-12-30T18:01:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:03:00",
+    "departureTime" : "1899-12-30T18:03:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:05:00",
+    "departureTime" : "1899-12-30T18:05:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:07:00",
+    "departureTime" : "1899-12-30T18:07:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:09:00",
+    "departureTime" : "1899-12-30T18:09:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:10:00",
+    "departureTime" : "1899-12-30T18:10:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 12
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:27:00",
+    "departureTime" : "1899-12-30T18:27:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:27:00",
+    "departureTime" : "1899-12-30T18:27:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:31:00",
+    "departureTime" : "1899-12-30T18:31:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:33:00",
+    "departureTime" : "1899-12-30T18:33:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:34:00",
+    "departureTime" : "1899-12-30T18:34:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:35:00",
+    "departureTime" : "1899-12-30T18:35:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:37:00",
+    "departureTime" : "1899-12-30T18:37:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:38:00",
+    "departureTime" : "1899-12-30T18:38:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:39:00",
+    "departureTime" : "1899-12-30T18:39:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:41:00",
+    "departureTime" : "1899-12-30T18:41:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:42:00",
+    "departureTime" : "1899-12-30T18:42:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:45:00",
+    "departureTime" : "1899-12-30T18:45:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:47:00",
+    "departureTime" : "1899-12-30T18:47:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:49:00",
+    "departureTime" : "1899-12-30T18:49:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:50:00",
+    "departureTime" : "1899-12-30T18:50:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:51:00",
+    "departureTime" : "1899-12-30T18:51:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:52:00",
+    "departureTime" : "1899-12-30T18:52:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:54:00",
+    "departureTime" : "1899-12-30T18:54:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:56:00",
+    "departureTime" : "1899-12-30T18:56:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:58:00",
+    "departureTime" : "1899-12-30T18:58:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:01:00",
+    "departureTime" : "1899-12-30T19:01:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:02:00",
+    "departureTime" : "1899-12-30T19:02:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:04:00",
+    "departureTime" : "1899-12-30T19:04:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:07:00",
+    "departureTime" : "1899-12-30T19:07:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:09:00",
+    "departureTime" : "1899-12-30T19:09:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:10:00",
+    "departureTime" : "1899-12-30T19:10:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:12:00",
+    "departureTime" : "1899-12-30T19:12:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:14:00",
+    "departureTime" : "1899-12-30T19:14:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:16:00",
+    "departureTime" : "1899-12-30T19:16:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:18:00",
+    "departureTime" : "1899-12-30T19:18:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:19:00",
+    "departureTime" : "1899-12-30T19:19:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 13
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:23:00",
+    "departureTime" : "1899-12-30T19:23:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:23:00",
+    "departureTime" : "1899-12-30T19:23:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:26:00",
+    "departureTime" : "1899-12-30T19:26:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:28:00",
+    "departureTime" : "1899-12-30T19:28:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:29:00",
+    "departureTime" : "1899-12-30T19:29:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:30:00",
+    "departureTime" : "1899-12-30T19:30:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:32:00",
+    "departureTime" : "1899-12-30T19:32:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:33:00",
+    "departureTime" : "1899-12-30T19:33:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:34:00",
+    "departureTime" : "1899-12-30T19:34:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:35:00",
+    "departureTime" : "1899-12-30T19:35:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:36:00",
+    "departureTime" : "1899-12-30T19:36:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:39:00",
+    "departureTime" : "1899-12-30T19:39:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:41:00",
+    "departureTime" : "1899-12-30T19:41:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:43:00",
+    "departureTime" : "1899-12-30T19:43:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:44:00",
+    "departureTime" : "1899-12-30T19:44:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:45:00",
+    "departureTime" : "1899-12-30T19:45:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:46:00",
+    "departureTime" : "1899-12-30T19:46:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:48:00",
+    "departureTime" : "1899-12-30T19:48:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:50:00",
+    "departureTime" : "1899-12-30T19:50:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:52:00",
+    "departureTime" : "1899-12-30T19:52:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:55:00",
+    "departureTime" : "1899-12-30T19:55:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:56:00",
+    "departureTime" : "1899-12-30T19:56:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T19:58:00",
+    "departureTime" : "1899-12-30T19:58:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:01:00",
+    "departureTime" : "1899-12-30T20:01:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:03:00",
+    "departureTime" : "1899-12-30T20:03:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:04:00",
+    "departureTime" : "1899-12-30T20:04:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:06:00",
+    "departureTime" : "1899-12-30T20:06:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:08:00",
+    "departureTime" : "1899-12-30T20:08:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:10:00",
+    "departureTime" : "1899-12-30T20:10:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:12:00",
+    "departureTime" : "1899-12-30T20:12:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:13:00",
+    "departureTime" : "1899-12-30T20:13:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 14
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:13:00",
+    "departureTime" : "1899-12-30T20:13:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:13:00",
+    "departureTime" : "1899-12-30T20:13:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:16:00",
+    "departureTime" : "1899-12-30T20:16:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:18:00",
+    "departureTime" : "1899-12-30T20:18:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:19:00",
+    "departureTime" : "1899-12-30T20:19:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:20:00",
+    "departureTime" : "1899-12-30T20:20:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:22:00",
+    "departureTime" : "1899-12-30T20:22:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:23:00",
+    "departureTime" : "1899-12-30T20:23:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:24:00",
+    "departureTime" : "1899-12-30T20:24:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:25:00",
+    "departureTime" : "1899-12-30T20:25:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:26:00",
+    "departureTime" : "1899-12-30T20:26:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:29:00",
+    "departureTime" : "1899-12-30T20:29:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:31:00",
+    "departureTime" : "1899-12-30T20:31:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:33:00",
+    "departureTime" : "1899-12-30T20:33:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:34:00",
+    "departureTime" : "1899-12-30T20:34:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:35:00",
+    "departureTime" : "1899-12-30T20:35:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:36:00",
+    "departureTime" : "1899-12-30T20:36:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:38:00",
+    "departureTime" : "1899-12-30T20:38:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:39:00",
+    "departureTime" : "1899-12-30T20:39:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:41:00",
+    "departureTime" : "1899-12-30T20:41:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:43:00",
+    "departureTime" : "1899-12-30T20:43:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:44:00",
+    "departureTime" : "1899-12-30T20:44:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:45:00",
+    "departureTime" : "1899-12-30T20:45:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:48:00",
+    "departureTime" : "1899-12-30T20:48:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:50:00",
+    "departureTime" : "1899-12-30T20:50:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:51:00",
+    "departureTime" : "1899-12-30T20:51:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:53:00",
+    "departureTime" : "1899-12-30T20:53:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:55:00",
+    "departureTime" : "1899-12-30T20:55:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:57:00",
+    "departureTime" : "1899-12-30T20:57:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T20:59:00",
+    "departureTime" : "1899-12-30T20:59:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T21:00:00",
+    "departureTime" : "1899-12-30T21:00:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-01",
+    "order" : 15
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:13:00",
+    "departureTime" : "1899-12-30T21:13:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:13:00",
+    "departureTime" : "1899-12-30T21:13:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:16:00",
+    "departureTime" : "1899-12-30T21:16:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:18:00",
+    "departureTime" : "1899-12-30T21:18:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:19:00",
+    "departureTime" : "1899-12-30T21:19:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:20:00",
+    "departureTime" : "1899-12-30T21:20:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:22:00",
+    "departureTime" : "1899-12-30T21:22:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:23:00",
+    "departureTime" : "1899-12-30T21:23:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:24:00",
+    "departureTime" : "1899-12-30T21:24:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:25:00",
+    "departureTime" : "1899-12-30T21:25:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:26:00",
+    "departureTime" : "1899-12-30T21:26:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:29:00",
+    "departureTime" : "1899-12-30T21:29:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:31:00",
+    "departureTime" : "1899-12-30T21:31:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:33:00",
+    "departureTime" : "1899-12-30T21:33:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:34:00",
+    "departureTime" : "1899-12-30T21:34:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:35:00",
+    "departureTime" : "1899-12-30T21:35:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:36:00",
+    "departureTime" : "1899-12-30T21:36:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:38:00",
+    "departureTime" : "1899-12-30T21:38:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:39:00",
+    "departureTime" : "1899-12-30T21:39:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:41:00",
+    "departureTime" : "1899-12-30T21:41:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 41,
+    "arrivalTime" : "1899-12-30T21:43:00",
+    "departureTime" : "1899-12-30T21:43:00",
+    "stopId" : 1580,
+    "stopSequence" : 20,
+    "variantId" : 930694,
+    "busServiceName" : "149-01",
+    "order" : 16
+  }, {
+    "routeId" : 149,
+    "tripId" : 121,
+    "arrivalTime" : "1899-12-30T21:43:00",
+    "departureTime" : "1899-12-30T21:43:00",
+    "stopId" : 1580,
+    "stopSequence" : 0,
+    "variantId" : 931013,
+    "busServiceName" : "149-01",
+    "order" : 17
+  }, {
+    "routeId" : 149,
+    "tripId" : 121,
+    "arrivalTime" : "1899-12-30T21:45:00",
+    "departureTime" : "1899-12-30T21:45:00",
+    "stopId" : 300,
+    "stopSequence" : 1,
+    "variantId" : 931013,
+    "busServiceName" : "149-01",
+    "order" : 17
+  }, {
+    "routeId" : 149,
+    "tripId" : 81,
+    "arrivalTime" : "1899-12-30T06:26:00",
+    "departureTime" : "1899-12-30T06:26:00",
+    "stopId" : 300,
+    "stopSequence" : 0,
+    "variantId" : 931011,
+    "busServiceName" : "149-11",
+    "order" : 0
+  }, {
+    "routeId" : 149,
+    "tripId" : 81,
+    "arrivalTime" : "1899-12-30T06:36:00",
+    "departureTime" : "1899-12-30T06:36:00",
+    "stopId" : 313,
+    "stopSequence" : 1,
+    "variantId" : 931011,
+    "busServiceName" : "149-11",
+    "order" : 0
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:38:00",
+    "departureTime" : "1899-12-30T06:38:00",
+    "stopId" : 313,
+    "stopSequence" : 0,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:38:00",
+    "departureTime" : "1899-12-30T06:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:41:00",
+    "departureTime" : "1899-12-30T06:41:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:43:00",
+    "departureTime" : "1899-12-30T06:43:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:44:00",
+    "departureTime" : "1899-12-30T06:44:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:45:00",
+    "departureTime" : "1899-12-30T06:45:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:47:00",
+    "departureTime" : "1899-12-30T06:47:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:48:00",
+    "departureTime" : "1899-12-30T06:48:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:49:00",
+    "departureTime" : "1899-12-30T06:49:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:50:00",
+    "departureTime" : "1899-12-30T06:50:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:51:00",
+    "departureTime" : "1899-12-30T06:51:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:54:00",
+    "departureTime" : "1899-12-30T06:54:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:56:00",
+    "departureTime" : "1899-12-30T06:56:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:58:00",
+    "departureTime" : "1899-12-30T06:58:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T06:59:00",
+    "departureTime" : "1899-12-30T06:59:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:00:00",
+    "departureTime" : "1899-12-30T07:00:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:01:00",
+    "departureTime" : "1899-12-30T07:01:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:03:00",
+    "departureTime" : "1899-12-30T07:03:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:05:00",
+    "departureTime" : "1899-12-30T07:05:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:07:00",
+    "departureTime" : "1899-12-30T07:07:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:10:00",
+    "departureTime" : "1899-12-30T07:10:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:12:00",
+    "departureTime" : "1899-12-30T07:12:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:13:00",
+    "departureTime" : "1899-12-30T07:13:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:16:00",
+    "departureTime" : "1899-12-30T07:16:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:18:00",
+    "departureTime" : "1899-12-30T07:18:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:19:00",
+    "departureTime" : "1899-12-30T07:19:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:21:00",
+    "departureTime" : "1899-12-30T07:21:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:23:00",
+    "departureTime" : "1899-12-30T07:23:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:25:00",
+    "departureTime" : "1899-12-30T07:25:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:27:00",
+    "departureTime" : "1899-12-30T07:27:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 141,
+    "arrivalTime" : "1899-12-30T07:28:00",
+    "departureTime" : "1899-12-30T07:28:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930693,
+    "busServiceName" : "149-11",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:38:00",
+    "departureTime" : "1899-12-30T07:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:38:00",
+    "departureTime" : "1899-12-30T07:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:42:00",
+    "departureTime" : "1899-12-30T07:42:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:44:00",
+    "departureTime" : "1899-12-30T07:44:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:45:00",
+    "departureTime" : "1899-12-30T07:45:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:46:00",
+    "departureTime" : "1899-12-30T07:46:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:48:00",
+    "departureTime" : "1899-12-30T07:48:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:49:00",
+    "departureTime" : "1899-12-30T07:49:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:50:00",
+    "departureTime" : "1899-12-30T07:50:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:52:00",
+    "departureTime" : "1899-12-30T07:52:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:53:00",
+    "departureTime" : "1899-12-30T07:53:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:56:00",
+    "departureTime" : "1899-12-30T07:56:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T07:58:00",
+    "departureTime" : "1899-12-30T07:58:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:00:00",
+    "departureTime" : "1899-12-30T08:00:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:01:00",
+    "departureTime" : "1899-12-30T08:01:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:02:00",
+    "departureTime" : "1899-12-30T08:02:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:03:00",
+    "departureTime" : "1899-12-30T08:03:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:05:00",
+    "departureTime" : "1899-12-30T08:05:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:07:00",
+    "departureTime" : "1899-12-30T08:07:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:09:00",
+    "departureTime" : "1899-12-30T08:09:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:12:00",
+    "departureTime" : "1899-12-30T08:12:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:14:00",
+    "departureTime" : "1899-12-30T08:14:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:15:00",
+    "departureTime" : "1899-12-30T08:15:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:18:00",
+    "departureTime" : "1899-12-30T08:18:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:20:00",
+    "departureTime" : "1899-12-30T08:20:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:21:00",
+    "departureTime" : "1899-12-30T08:21:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:23:00",
+    "departureTime" : "1899-12-30T08:23:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:25:00",
+    "departureTime" : "1899-12-30T08:25:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:27:00",
+    "departureTime" : "1899-12-30T08:27:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:29:00",
+    "departureTime" : "1899-12-30T08:29:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:30:00",
+    "departureTime" : "1899-12-30T08:30:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:38:00",
+    "departureTime" : "1899-12-30T08:38:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:38:00",
+    "departureTime" : "1899-12-30T08:38:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:42:00",
+    "departureTime" : "1899-12-30T08:42:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:44:00",
+    "departureTime" : "1899-12-30T08:44:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:45:00",
+    "departureTime" : "1899-12-30T08:45:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:46:00",
+    "departureTime" : "1899-12-30T08:46:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:48:00",
+    "departureTime" : "1899-12-30T08:48:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:49:00",
+    "departureTime" : "1899-12-30T08:49:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:50:00",
+    "departureTime" : "1899-12-30T08:50:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:52:00",
+    "departureTime" : "1899-12-30T08:52:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:53:00",
+    "departureTime" : "1899-12-30T08:53:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:56:00",
+    "departureTime" : "1899-12-30T08:56:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T08:58:00",
+    "departureTime" : "1899-12-30T08:58:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:00:00",
+    "departureTime" : "1899-12-30T09:00:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:01:00",
+    "departureTime" : "1899-12-30T09:01:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:02:00",
+    "departureTime" : "1899-12-30T09:02:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:03:00",
+    "departureTime" : "1899-12-30T09:03:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:05:00",
+    "departureTime" : "1899-12-30T09:05:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:07:00",
+    "departureTime" : "1899-12-30T09:07:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:09:00",
+    "departureTime" : "1899-12-30T09:09:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:12:00",
+    "departureTime" : "1899-12-30T09:12:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:14:00",
+    "departureTime" : "1899-12-30T09:14:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:16:00",
+    "departureTime" : "1899-12-30T09:16:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:19:00",
+    "departureTime" : "1899-12-30T09:19:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:21:00",
+    "departureTime" : "1899-12-30T09:21:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:22:00",
+    "departureTime" : "1899-12-30T09:22:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:24:00",
+    "departureTime" : "1899-12-30T09:24:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:26:00",
+    "departureTime" : "1899-12-30T09:26:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:28:00",
+    "departureTime" : "1899-12-30T09:28:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:30:00",
+    "departureTime" : "1899-12-30T09:30:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T09:31:00",
+    "departureTime" : "1899-12-30T09:31:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-11",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 101,
+    "arrivalTime" : "1899-12-30T09:31:00",
+    "departureTime" : "1899-12-30T09:31:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 931012,
+    "busServiceName" : "149-11",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 101,
+    "arrivalTime" : "1899-12-30T09:41:00",
+    "departureTime" : "1899-12-30T09:41:00",
+    "stopId" : 300,
+    "stopSequence" : 1,
+    "variantId" : 931012,
+    "busServiceName" : "149-11",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 111,
+    "arrivalTime" : "1899-12-30T13:46:00",
+    "departureTime" : "1899-12-30T13:46:00",
+    "stopId" : 300,
+    "stopSequence" : 0,
+    "variantId" : 931010,
+    "busServiceName" : "149-31",
+    "order" : 0
+  }, {
+    "routeId" : 149,
+    "tripId" : 111,
+    "arrivalTime" : "1899-12-30T13:48:00",
+    "departureTime" : "1899-12-30T13:48:00",
+    "stopId" : 1620,
+    "stopSequence" : 1,
+    "variantId" : 931010,
+    "busServiceName" : "149-31",
+    "order" : 0
+  }, {
+    "routeId" : 149,
+    "tripId" : 51,
+    "arrivalTime" : "1899-12-30T13:48:00",
+    "departureTime" : "1899-12-30T13:48:00",
+    "stopId" : 1620,
+    "stopSequence" : 0,
+    "variantId" : 930696,
+    "busServiceName" : "149-31",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 51,
+    "arrivalTime" : "1899-12-30T13:50:00",
+    "departureTime" : "1899-12-30T13:50:00",
+    "stopId" : 1121,
+    "stopSequence" : 1,
+    "variantId" : 930696,
+    "busServiceName" : "149-31",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 51,
+    "arrivalTime" : "1899-12-30T13:52:00",
+    "departureTime" : "1899-12-30T13:52:00",
+    "stopId" : 14695,
+    "stopSequence" : 2,
+    "variantId" : 930696,
+    "busServiceName" : "149-31",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 51,
+    "arrivalTime" : "1899-12-30T13:54:00",
+    "departureTime" : "1899-12-30T13:54:00",
+    "stopId" : 14696,
+    "stopSequence" : 3,
+    "variantId" : 930696,
+    "busServiceName" : "149-31",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 51,
+    "arrivalTime" : "1899-12-30T13:55:00",
+    "departureTime" : "1899-12-30T13:55:00",
+    "stopId" : 314,
+    "stopSequence" : 4,
+    "variantId" : 930696,
+    "busServiceName" : "149-31",
+    "order" : 1
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:08:00",
+    "departureTime" : "1899-12-30T14:08:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:08:00",
+    "departureTime" : "1899-12-30T14:08:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:12:00",
+    "departureTime" : "1899-12-30T14:12:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:14:00",
+    "departureTime" : "1899-12-30T14:14:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:16:00",
+    "departureTime" : "1899-12-30T14:16:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:17:00",
+    "departureTime" : "1899-12-30T14:17:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:19:00",
+    "departureTime" : "1899-12-30T14:19:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:20:00",
+    "departureTime" : "1899-12-30T14:20:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:21:00",
+    "departureTime" : "1899-12-30T14:21:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:23:00",
+    "departureTime" : "1899-12-30T14:23:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:24:00",
+    "departureTime" : "1899-12-30T14:24:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:27:00",
+    "departureTime" : "1899-12-30T14:27:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:29:00",
+    "departureTime" : "1899-12-30T14:29:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:31:00",
+    "departureTime" : "1899-12-30T14:31:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:32:00",
+    "departureTime" : "1899-12-30T14:32:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:33:00",
+    "departureTime" : "1899-12-30T14:33:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:34:00",
+    "departureTime" : "1899-12-30T14:34:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:36:00",
+    "departureTime" : "1899-12-30T14:36:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:38:00",
+    "departureTime" : "1899-12-30T14:38:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:40:00",
+    "departureTime" : "1899-12-30T14:40:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:44:00",
+    "departureTime" : "1899-12-30T14:44:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:46:00",
+    "departureTime" : "1899-12-30T14:46:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:48:00",
+    "departureTime" : "1899-12-30T14:48:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:51:00",
+    "departureTime" : "1899-12-30T14:51:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:53:00",
+    "departureTime" : "1899-12-30T14:53:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:54:00",
+    "departureTime" : "1899-12-30T14:54:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:56:00",
+    "departureTime" : "1899-12-30T14:56:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T14:58:00",
+    "departureTime" : "1899-12-30T14:58:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:00:00",
+    "departureTime" : "1899-12-30T15:00:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:02:00",
+    "departureTime" : "1899-12-30T15:02:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:03:00",
+    "departureTime" : "1899-12-30T15:03:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 2
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:13:00",
+    "departureTime" : "1899-12-30T15:13:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:13:00",
+    "departureTime" : "1899-12-30T15:13:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:17:00",
+    "departureTime" : "1899-12-30T15:17:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:20:00",
+    "departureTime" : "1899-12-30T15:20:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:22:00",
+    "departureTime" : "1899-12-30T15:22:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:24:00",
+    "departureTime" : "1899-12-30T15:24:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:26:00",
+    "departureTime" : "1899-12-30T15:26:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:27:00",
+    "departureTime" : "1899-12-30T15:27:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:28:00",
+    "departureTime" : "1899-12-30T15:28:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:30:00",
+    "departureTime" : "1899-12-30T15:30:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:31:00",
+    "departureTime" : "1899-12-30T15:31:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:34:00",
+    "departureTime" : "1899-12-30T15:34:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:37:00",
+    "departureTime" : "1899-12-30T15:37:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:39:00",
+    "departureTime" : "1899-12-30T15:39:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:40:00",
+    "departureTime" : "1899-12-30T15:40:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:41:00",
+    "departureTime" : "1899-12-30T15:41:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:42:00",
+    "departureTime" : "1899-12-30T15:42:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:44:00",
+    "departureTime" : "1899-12-30T15:44:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:46:00",
+    "departureTime" : "1899-12-30T15:46:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:48:00",
+    "departureTime" : "1899-12-30T15:48:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:52:00",
+    "departureTime" : "1899-12-30T15:52:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:54:00",
+    "departureTime" : "1899-12-30T15:54:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:56:00",
+    "departureTime" : "1899-12-30T15:56:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T15:59:00",
+    "departureTime" : "1899-12-30T15:59:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:01:00",
+    "departureTime" : "1899-12-30T16:01:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:02:00",
+    "departureTime" : "1899-12-30T16:02:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:04:00",
+    "departureTime" : "1899-12-30T16:04:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:06:00",
+    "departureTime" : "1899-12-30T16:06:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:08:00",
+    "departureTime" : "1899-12-30T16:08:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:10:00",
+    "departureTime" : "1899-12-30T16:10:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:11:00",
+    "departureTime" : "1899-12-30T16:11:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 3
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:33:00",
+    "departureTime" : "1899-12-30T16:33:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:33:00",
+    "departureTime" : "1899-12-30T16:33:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:37:00",
+    "departureTime" : "1899-12-30T16:37:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:40:00",
+    "departureTime" : "1899-12-30T16:40:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:42:00",
+    "departureTime" : "1899-12-30T16:42:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:44:00",
+    "departureTime" : "1899-12-30T16:44:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:46:00",
+    "departureTime" : "1899-12-30T16:46:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:47:00",
+    "departureTime" : "1899-12-30T16:47:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:48:00",
+    "departureTime" : "1899-12-30T16:48:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:50:00",
+    "departureTime" : "1899-12-30T16:50:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:51:00",
+    "departureTime" : "1899-12-30T16:51:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:54:00",
+    "departureTime" : "1899-12-30T16:54:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:57:00",
+    "departureTime" : "1899-12-30T16:57:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T16:59:00",
+    "departureTime" : "1899-12-30T16:59:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:00:00",
+    "departureTime" : "1899-12-30T17:00:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:01:00",
+    "departureTime" : "1899-12-30T17:01:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:02:00",
+    "departureTime" : "1899-12-30T17:02:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:04:00",
+    "departureTime" : "1899-12-30T17:04:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:06:00",
+    "departureTime" : "1899-12-30T17:06:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:08:00",
+    "departureTime" : "1899-12-30T17:08:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:12:00",
+    "departureTime" : "1899-12-30T17:12:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:13:00",
+    "departureTime" : "1899-12-30T17:13:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:15:00",
+    "departureTime" : "1899-12-30T17:15:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:18:00",
+    "departureTime" : "1899-12-30T17:18:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:20:00",
+    "departureTime" : "1899-12-30T17:20:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:21:00",
+    "departureTime" : "1899-12-30T17:21:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:23:00",
+    "departureTime" : "1899-12-30T17:23:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:25:00",
+    "departureTime" : "1899-12-30T17:25:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:27:00",
+    "departureTime" : "1899-12-30T17:27:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:29:00",
+    "departureTime" : "1899-12-30T17:29:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:30:00",
+    "departureTime" : "1899-12-30T17:30:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 4
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:53:00",
+    "departureTime" : "1899-12-30T17:53:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:53:00",
+    "departureTime" : "1899-12-30T17:53:00",
+    "stopId" : 116,
+    "stopSequence" : 1,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T17:57:00",
+    "departureTime" : "1899-12-30T17:57:00",
+    "stopId" : 1383,
+    "stopSequence" : 2,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:00:00",
+    "departureTime" : "1899-12-30T18:00:00",
+    "stopId" : 1927,
+    "stopSequence" : 3,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:01:00",
+    "departureTime" : "1899-12-30T18:01:00",
+    "stopId" : 1825,
+    "stopSequence" : 4,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:02:00",
+    "departureTime" : "1899-12-30T18:02:00",
+    "stopId" : 14448,
+    "stopSequence" : 5,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:04:00",
+    "departureTime" : "1899-12-30T18:04:00",
+    "stopId" : 1820,
+    "stopSequence" : 6,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:05:00",
+    "departureTime" : "1899-12-30T18:05:00",
+    "stopId" : 14449,
+    "stopSequence" : 7,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:06:00",
+    "departureTime" : "1899-12-30T18:06:00",
+    "stopId" : 14452,
+    "stopSequence" : 8,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:08:00",
+    "departureTime" : "1899-12-30T18:08:00",
+    "stopId" : 14454,
+    "stopSequence" : 9,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:09:00",
+    "departureTime" : "1899-12-30T18:09:00",
+    "stopId" : 14455,
+    "stopSequence" : 10,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:12:00",
+    "departureTime" : "1899-12-30T18:12:00",
+    "stopId" : 1792,
+    "stopSequence" : 11,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:14:00",
+    "departureTime" : "1899-12-30T18:14:00",
+    "stopId" : 1470,
+    "stopSequence" : 12,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:16:00",
+    "departureTime" : "1899-12-30T18:16:00",
+    "stopId" : 1468,
+    "stopSequence" : 13,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:17:00",
+    "departureTime" : "1899-12-30T18:17:00",
+    "stopId" : 1466,
+    "stopSequence" : 14,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:18:00",
+    "departureTime" : "1899-12-30T18:18:00",
+    "stopId" : 1128,
+    "stopSequence" : 15,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:19:00",
+    "departureTime" : "1899-12-30T18:19:00",
+    "stopId" : 1126,
+    "stopSequence" : 16,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:21:00",
+    "departureTime" : "1899-12-30T18:21:00",
+    "stopId" : 1478,
+    "stopSequence" : 17,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:23:00",
+    "departureTime" : "1899-12-30T18:23:00",
+    "stopId" : 1447,
+    "stopSequence" : 18,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:25:00",
+    "departureTime" : "1899-12-30T18:25:00",
+    "stopId" : 1448,
+    "stopSequence" : 19,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:28:00",
+    "departureTime" : "1899-12-30T18:28:00",
+    "stopId" : 1999,
+    "stopSequence" : 20,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:29:00",
+    "departureTime" : "1899-12-30T18:29:00",
+    "stopId" : 1491,
+    "stopSequence" : 21,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:31:00",
+    "departureTime" : "1899-12-30T18:31:00",
+    "stopId" : 1493,
+    "stopSequence" : 22,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:34:00",
+    "departureTime" : "1899-12-30T18:34:00",
+    "stopId" : 1173,
+    "stopSequence" : 23,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:36:00",
+    "departureTime" : "1899-12-30T18:36:00",
+    "stopId" : 1405,
+    "stopSequence" : 24,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:37:00",
+    "departureTime" : "1899-12-30T18:37:00",
+    "stopId" : 1123,
+    "stopSequence" : 25,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:39:00",
+    "departureTime" : "1899-12-30T18:39:00",
+    "stopId" : 1620,
+    "stopSequence" : 26,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:41:00",
+    "departureTime" : "1899-12-30T18:41:00",
+    "stopId" : 1121,
+    "stopSequence" : 27,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:43:00",
+    "departureTime" : "1899-12-30T18:43:00",
+    "stopId" : 14695,
+    "stopSequence" : 28,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:45:00",
+    "departureTime" : "1899-12-30T18:45:00",
+    "stopId" : 14696,
+    "stopSequence" : 29,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 131,
+    "arrivalTime" : "1899-12-30T18:46:00",
+    "departureTime" : "1899-12-30T18:46:00",
+    "stopId" : 314,
+    "stopSequence" : 30,
+    "variantId" : 930475,
+    "busServiceName" : "149-31",
+    "order" : 5
+  }, {
+    "routeId" : 149,
+    "tripId" : 101,
+    "arrivalTime" : "1899-12-30T18:46:00",
+    "departureTime" : "1899-12-30T18:46:00",
+    "stopId" : 314,
+    "stopSequence" : 0,
+    "variantId" : 931012,
+    "busServiceName" : "149-31",
+    "order" : 6
+  }, {
+    "routeId" : 149,
+    "tripId" : 101,
+    "arrivalTime" : "1899-12-30T18:56:00",
+    "departureTime" : "1899-12-30T18:56:00",
+    "stopId" : 300,
+    "stopSequence" : 1,
+    "variantId" : 931012,
+    "busServiceName" : "149-31",
+    "order" : 6
+  } ]
+}
