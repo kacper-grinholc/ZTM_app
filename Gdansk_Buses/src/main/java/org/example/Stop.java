@@ -18,14 +18,14 @@ public class Stop {
     public String toString() {
         return "\n      Stop{" +
                 "stopId=" + stopId +
-                ", stopName='" + stopName + '\'' +
+//                ", stopName='" + stopName + '\'' +
                 ", stopDesc='" + stopDesc + '\'' +
-                ", subName='" + subName + '\'' +
-                ", zoneId=" + zoneId +
-                ", zoneName='" + zoneName + '\'' +
+//                ", subName='" + subName + '\'' +
+//                ", zoneId=" + zoneId +
+//                ", zoneName='" + zoneName + '\'' +
                 ", onDemand=" + onDemand +
-                ", stopLat=" + stopLat +
-                ", stopLon=" + stopLon +
+//                ", stopLat=" + stopLat +
+//                ", stopLon=" + stopLon +
                 '}';
     }
 }

@@ -29,13 +29,13 @@ public class RouteStop {
         return "\n    RouteStop{" +
                 "routeId=" + routeId +
                 ", tripId=" + tripId +
-                ", arrivalTime=" + arrivalTime +
+//                ", arrivalTime=" + arrivalTime +
                 ", departureTime=" + departureTime +
                 ", stopId=" + stopId +
                 ", stopSequence=" + stopSequence +
-                ", variantId=" + variantId +
-                ", busServiceName='" + busServiceName + '\'' +
-                ", order=" + order +
+//                ", variantId=" + variantId +
+//                ", busServiceName='" + busServiceName + '\'' +
+//                ", order=" + order +
                 ", stop=" + stop +
                 '}';
     }

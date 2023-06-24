@@ -35,7 +35,11 @@ public class ZtmManager {
     public List<FullTrip> getRouteStops(int tripId, int routeId) throws IOException {
         List<FullTrip> busSchedule = new ArrayList<>();
         RouteData routeData = ztmClient.fetchRouteData(routeId);
-        int lastStopNumber = routeData.stopTimes.stream().mapToInt(RouteStop::getStopSequence).max().orElse(0);
+        int lastStopNumber = routeData.stopTimes.stream()
+                .filter(routeStop -> routeStop.tripId == tripId)
+                .mapToInt(RouteStop::getStopSequence)
+                .max()
+                .orElse(0);
         FullTrip fullTrip = new FullTrip();
         fullTrip.trips = new ArrayList<>();
         for (RouteStop routeStop : routeData.stopTimes) {
