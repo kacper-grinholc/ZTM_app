@@ -18,13 +18,11 @@ public class ZtmClient {
     private final String stopUrl = "/dataset/c24aa637-3619-4dc2-a171-a23eec8f2172/resource/4c4025f0-01bf-41f7-a39f-d156d201b82b/download/stops.json";
     private final SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 
-//    public VehiclesData fetchVehicleData() throws IOException {
-//        String url = baseUrl2 + vehicleUrl;
-//        ObjectMapper mapper = new ObjectMapper();
-//        System.out.println("aaa" + url);
-////        return mapper.readValue(new URL(url), VehiclesData.class);
-//        return mapper.readValue(new File("src/main/resources/vehicles.json"), VehiclesData.class);
-//    }
+    public VehiclesData fetchVehicleData() throws IOException {
+        String url = baseUrl2 + vehicleUrl;
+        ObjectMapper mapper = new ObjectMapper();
+        return mapper.readValue(new URL(url), VehiclesData.class);
+    }
 
 
     public RouteDirections fetchRouteDirections() throws IOException {

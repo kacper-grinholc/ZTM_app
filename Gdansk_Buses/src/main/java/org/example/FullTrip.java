@@ -14,13 +14,16 @@ public class FullTrip {
     public Date endTime;
     public List<RouteStop> trips;
 
+    public Vehicle vehicle;
+
     public FullTrip() {
     }
 
-    public FullTrip(Date startTime, Date endTime, List<RouteStop> trips) {
+    public FullTrip(Date startTime, Date endTime, List<RouteStop> trips, Vehicle vehicle) {
         this.startTime = startTime;
         this.endTime = endTime;
         this.trips = trips;
+        this.vehicle = vehicle;
     }
 
     @Override
@@ -29,6 +32,7 @@ public class FullTrip {
                 "startTime=" + startTime +
                 ", endTime=" + endTime +
                 ", trips=" + trips +
+                ", vehicle=" + vehicle +
                 '}';
     }
 }

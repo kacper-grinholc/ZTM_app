@@ -18,7 +18,7 @@ class Vehicle {
     public int speed;
     public int direction;
     public int delay;
-    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "GMT+1")
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "GMT+2")
     public Date scheduledTripStartTime;
     public double lat;
     public double lon;
@@ -30,16 +30,17 @@ class Vehicle {
 
     @Override
     public String toString() {
-        return "\nVehices{" + "\n\tgenerated='" + generated + '\'' + ",\n\trouteShortName='" + routeShortName + '\'' + ",\n\ttripId=" + tripId + ",\n\theadsign='" + headsign + '\'' +
-                ",\n\tvehicleCode='" + vehicleCode + '\'' +
-                ",\n\tvehicleService='" + vehicleService + '\'' +
-//                ",\n\tvehicleId=" + vehicleId +
-//                ",\n\tspeed=" + speed +
-//                ",\n\tdirection=" + direction +
-                ",\n\tdelay=" + delay + ",\n\tscheduledTripStartTime='" + scheduledTripStartTime + '\'' +
-//                ",\n\tlat=" + lat +
-//                ",\n\tlon=" + lon +
-                ",\n\trouteData=" + routeData + "}";
+        return "\nVehicle{" +
+                ", routeShortName='" + routeShortName + '\'' +
+                ", tripId=" + tripId +
+                ", headsign='" + headsign + '\'' +
+                ", vehicleCode='" + vehicleCode + '\'' +
+                ", vehicleId=" + vehicleId +
+                ", speed=" + speed +
+                ", delay=" + delay +
+                ", scheduledTripStartTime=" + scheduledTripStartTime +
+                ", routeData=" + routeData +
+                '}';
     }
 }
 
