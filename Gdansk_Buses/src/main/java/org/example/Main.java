@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) throws IOException, ParseException {
         ZtmManager ztmManager = new ZtmManager();
         ztmManager.init();
-//        System.out.println(ztmManager.getVehiclesData().getVehicles().get(0));
+        ztmManager.getRoutes(107);
+        ztmManager.getRouteStops(201, 107);
     }
 }

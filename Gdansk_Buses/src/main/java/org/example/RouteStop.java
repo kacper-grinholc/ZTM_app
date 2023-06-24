@@ -20,8 +20,23 @@ public class RouteStop {
     public int order;
     public Stop stop;
 
+    public int getStopSequence() {
+        return stopSequence;
+    }
+
     @Override
     public String toString() {
-        return "\nRouteStop{" + "\n\trouteId=" + routeId + ",\n\ttripId=" + tripId + ",\n\tarrivalTime=" + arrivalTime + ",\n\tdepartureTime=" + departureTime + ",\n\tstopId=" + stopId + ",\n\tstopSequence=" + stopSequence + ",\n\tvariantId=" + variantId + ",\n\tbusServiceName='" + busServiceName + '\'' + ",\n\torder=" + order + ",\n\tstop=" + stop + '}';
+        return "\n    RouteStop{" +
+                "routeId=" + routeId +
+                ", tripId=" + tripId +
+                ", arrivalTime=" + arrivalTime +
+                ", departureTime=" + departureTime +
+                ", stopId=" + stopId +
+                ", stopSequence=" + stopSequence +
+                ", variantId=" + variantId +
+                ", busServiceName='" + busServiceName + '\'' +
+                ", order=" + order +
+                ", stop=" + stop +
+                '}';
     }
 }

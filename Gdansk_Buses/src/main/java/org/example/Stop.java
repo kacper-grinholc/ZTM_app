@@ -16,6 +16,16 @@ public class Stop {
 
     @Override
     public String toString() {
-        return "\nStop{" + "\n\tstopId=" + stopId + ",\n\tstopName='" + stopName + '\'' + ",\n\tstopDesc='" + stopDesc + '\'' + ",\n\tsubName='" + subName + '\'' + ",\n\tzoneId=" + zoneId + ",\n\tzoneName='" + zoneName + '\'' + ",\n\tonDemand=" + onDemand + ",\n\tstopLat=" + stopLat + ",\n\tstopLon=" + stopLon + '}';
+        return "\n      Stop{" +
+                "stopId=" + stopId +
+                ", stopName='" + stopName + '\'' +
+                ", stopDesc='" + stopDesc + '\'' +
+                ", subName='" + subName + '\'' +
+                ", zoneId=" + zoneId +
+                ", zoneName='" + zoneName + '\'' +
+                ", onDemand=" + onDemand +
+                ", stopLat=" + stopLat +
+                ", stopLon=" + stopLon +
+                '}';
     }
 }
