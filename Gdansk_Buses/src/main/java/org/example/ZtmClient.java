@@ -2,6 +2,10 @@ package org.example;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.example.Model.RouteData;
+import org.example.Model.RouteDirections;
+import org.example.Model.StopsData;
+import org.example.Model.VehiclesData;
 
 import java.io.IOException;
 import java.net.URL;

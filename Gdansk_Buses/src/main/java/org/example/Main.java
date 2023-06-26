@@ -18,7 +18,7 @@ public class Main {
             System.out.print("Enter a bus trip:");
             int tripid = scanner.nextInt();
             ztmManager.getRouteStops(tripid, routeid);
-            System.out.print("Do you want to continue? (Y/N): ");
+            System.out.print("Do you want to look for new one? (Y/N): ");
             String continueOption = scanner.next();
             shouldContinue = continueOption.equalsIgnoreCase("Y");
         }

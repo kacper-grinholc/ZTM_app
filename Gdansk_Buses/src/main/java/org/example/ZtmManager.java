@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.Model.*;
+
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -28,7 +30,9 @@ public class ZtmManager {
                 result.add(route);
             }
         }
-        System.out.println(result);
+        for (Route route:result) {
+            System.out.println(route);
+        }
         return result;
     }
 

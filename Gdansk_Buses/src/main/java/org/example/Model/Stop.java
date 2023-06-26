@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
@@ -16,10 +16,11 @@ public class Stop {
 
     @Override
     public String toString() {
-        return "\n      Stop{" +
-                "stopId=" + stopId +
+        return "\n      " +
+//                "Stop{" +
+//                "stopId=" + stopId +
 //                ", stopName='" + stopName + '\'' +
-                ", stopDesc='" + stopDesc + '\'' +
+                "stopDesc='" + stopDesc + '\'' +
 //                ", subName='" + subName + '\'' +
 //                ", zoneId=" + zoneId +
 //                ", zoneName='" + zoneName + '\'' +

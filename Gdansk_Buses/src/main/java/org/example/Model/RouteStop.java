@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -26,17 +26,19 @@ public class RouteStop {
 
     @Override
     public String toString() {
-        return "\n    RouteStop{" +
-                "routeId=" + routeId +
-                ", tripId=" + tripId +
+        return "\n    " +
+//                "RouteStop{" +
+//                "routeId=" + routeId +
+//                ", tripId=" + tripId +
 //                ", arrivalTime=" + arrivalTime +
-                ", departureTime=" + departureTime +
-                ", stopId=" + stopId +
-                ", stopSequence=" + stopSequence +
+                "departureTime=" + departureTime +
+//                ", stopId=" + stopId +
+//                ", stopSequence=" + stopSequence +
 //                ", variantId=" + variantId +
 //                ", busServiceName='" + busServiceName + '\'' +
 //                ", order=" + order +
-                ", stop=" + stop +
+//                ", stop=" +
+                stop +
                 '}';
     }
 }

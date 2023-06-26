@@ -1,7 +1,8 @@
-package org.example;
+package org.example.Model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import org.example.Model.Vehicle;
 
 import java.util.Date;
 import java.util.List;
@@ -28,11 +29,14 @@ public class FullTrip {
 
     @Override
     public String toString() {
-        return "\n FullTrip{" +
+        return
+                "\n " +
+//                        "FullTrip{" +
                 "startTime=" + startTime +
                 ", endTime=" + endTime +
-                ", trips=" + trips +
                 ", vehicle=" + vehicle +
+//                ", trips=" +
+                        trips +
                 '}';
     }
 }

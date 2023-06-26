@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
@@ -25,7 +25,7 @@ public class Route {
                 "routeId=" + routeId +
                 ", tripId=" + tripId +
                 ", tripHeadsign='" + tripHeadsign + '\'' +
-                ", type='" + type + '\'' +
+//                ", type='" + type + '\'' +
                 '}';
     }
 }
